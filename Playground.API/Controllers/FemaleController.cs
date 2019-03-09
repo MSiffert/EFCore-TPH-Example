@@ -24,7 +24,7 @@ namespace Playground.API.Controllers
         [HttpPost]
         public ActionResult Create()
         {
-            this.Context.Female.Add(new Female  
+            this.Context.Person.Add(new Female  
             {
                 Firstname = "Hans",
                 Lastname = "Muster",
@@ -43,8 +43,9 @@ namespace Playground.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var list = this.Context.Female.ToList();
-            return Ok(list);
+            var females = this.Context.Female.Include(e => e.House).ToList();
+
+            return Ok(females);
         }
     }
 }
