@@ -22,8 +22,8 @@ namespace Playground.Controllers
         {
             this.Context.Person.Add(new Person
             {
-                Firstname = "Marco",
-                Lastname = "Siffert",
+                Firstname = "Hans",
+                Lastname = "Muster",
                 Middlename = "",
                 House = new House
                 {

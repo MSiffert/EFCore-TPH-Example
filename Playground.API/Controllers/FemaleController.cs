@@ -26,8 +26,8 @@ namespace Playground.API.Controllers
         {
             this.Context.Female.Add(new Female  
             {
-                Firstname = "Marco",
-                Lastname = "Siffert",
+                Firstname = "Hans",
+                Lastname = "Muster",
                 Middlename = "",
                 IsPregnant = true,
                 House = new House

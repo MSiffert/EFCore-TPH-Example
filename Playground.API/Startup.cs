@@ -30,7 +30,7 @@ namespace Playground.API
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<FemaleDbContext>(options =>
             {
-                options.UseSqlServer("Server=desktop-gkkrnig\\mssqldev;Database=Test;User Id=sa;Password=test;");
+                options.UseSqlServer("ConnectionString");
             });
         }
 
