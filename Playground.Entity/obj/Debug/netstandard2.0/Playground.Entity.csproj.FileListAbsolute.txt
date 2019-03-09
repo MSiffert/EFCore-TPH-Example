@@ -1,0 +1,8 @@
+C:\Users\marco\source\repos\Playground\Playground.Entity\bin\Debug\netstandard2.0\Playground.Entity.deps.json
+C:\Users\marco\source\repos\Playground\Playground.Entity\bin\Debug\netstandard2.0\Playground.Entity.dll
+C:\Users\marco\source\repos\Playground\Playground.Entity\bin\Debug\netstandard2.0\Playground.Entity.pdb
+C:\Users\marco\source\repos\Playground\Playground.Entity\obj\Debug\netstandard2.0\Playground.Entity.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Playground\Playground.Entity\obj\Debug\netstandard2.0\Playground.Entity.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Playground\Playground.Entity\obj\Debug\netstandard2.0\Playground.Entity.AssemblyInfo.cs
+C:\Users\marco\source\repos\Playground\Playground.Entity\obj\Debug\netstandard2.0\Playground.Entity.dll
+C:\Users\marco\source\repos\Playground\Playground.Entity\obj\Debug\netstandard2.0\Playground.Entity.pdb
